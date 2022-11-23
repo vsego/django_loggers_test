@@ -2,6 +2,8 @@
 
 A simple tester of Django's loggers' configuration.
 
+![Screenshot](https://raw.githubusercontent.com/vsego/django_loggers_test/master/images/screenshot.png)
+
 ## Content
 
 1. [Installation](#installation)
